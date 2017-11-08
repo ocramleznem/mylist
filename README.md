@@ -1,5 +1,10 @@
 # mylist
 
+## Docs
+
+* [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
+* [PHP: The Right Way](http://www.phptherightway.com/)
+
 ## Articles
 
 * [How does the PHP Realpath Cache work and how to configure it?](https://tideways.io/profiler/blog/how-does-the-php-realpath-cache-work-and-how-to-configure-it)
