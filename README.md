@@ -15,3 +15,7 @@
 ## Snippets
 
 * [Removing Object Properties Before Var_Dumping Them](https://lornajane.net/posts/2017/removing-object-properties-before-var_dumping-them)
+
+## Tools
+
+* [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
