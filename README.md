@@ -15,6 +15,7 @@
 * [On The Design and Implementation of a Stealth Backdoor for Web Applications](https://paragonie.com/blog/2016/01/on-design-and-implementation-stealth-backdoor-for-web-applications)
 * [PHP Sadness](http://www.phpsadness.com/)
 * [roave/security-advisories: Composer against Security Vulnerabilities](https://ocramius.github.io/blog/roave-security-advisories-protect-against-composer-packages-with-security-issues/)
+* [SSL Server Test](https://www.ssllabs.com/ssltest/)
 * [When to declare methods final](https://slamdunk.github.io/blog/when-to-declare-methods-final/)
 * [Which hashing algorithm is best for uniqueness and speed?](https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed)
 * [Using git-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
