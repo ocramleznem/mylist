@@ -4,6 +4,7 @@
 
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+* [Analyse your HTTP response headers](https://securityheaders.io/)
 * [badssl.com](https://badssl.com/)
 * [Composer.json Schema CheatSheet](http://composer.json.jolicode.com/)
 * [Fluent Interfaces are Evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
