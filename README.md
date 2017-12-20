@@ -9,6 +9,7 @@
 * [Composer.json Schema CheatSheet](http://composer.json.jolicode.com/)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
 * [Fluent Interfaces are Evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
+* [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 * [How does the PHP Realpath Cache work and how to configure it?](https://tideways.io/profiler/blog/how-does-the-php-realpath-cache-work-and-how-to-configure-it)
 * [How to Securely Generate Random Strings and Integers in PHP](https://paragonie.com/blog/2015/07/how-safely-generate-random-strings-and-integers-in-php)
 * [How to JOIN tables in UPDATE query](https://stackoverflow.com/questions/15209414/how-to-do-3-table-join-in-update-query/15209489#15209489)
