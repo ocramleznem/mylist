@@ -8,6 +8,7 @@
 * [Analyse your HTTP response headers](https://securityheaders.io/)
 * [badssl.com](https://badssl.com/)
 * [Composer.json Schema CheatSheet](http://composer.json.jolicode.com/)
+* [Dependency Injection (DI) Container in PHP](https://medium.com/@MustafaMagdi/dependency-injection-di-container-in-php-a7e5d309ccc6)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
 * [Fluent Interfaces are Evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
 * [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
