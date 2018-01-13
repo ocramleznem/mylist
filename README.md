@@ -16,6 +16,7 @@
 * [How to Securely Generate Random Strings and Integers in PHP](https://paragonie.com/blog/2015/07/how-safely-generate-random-strings-and-integers-in-php)
 * [How to JOIN tables in UPDATE query](https://stackoverflow.com/questions/15209414/how-to-do-3-table-join-in-update-query/15209489#15209489)
 * [Is it all PHP OPCache's fault?](https://engineering.facile.it/blog/eng/realpath-cache-is-it-all-php-opcache-s-fault/)
+* [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 * [MySQL ORDER BY / LIMIT performance: late row lookups](https://explainextended.com/2009/10/23/mysql-order-by-limit-performance-late-row-lookups/)
 * [nixCraft – Linux Tips, Hacks, Tutorials, And Ideas In Blog](https://www.cyberciti.biz/)
