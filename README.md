@@ -27,6 +27,8 @@
 * [On The Design and Implementation of a Stealth Backdoor for Web Applications](https://paragonie.com/blog/2016/01/on-design-and-implementation-stealth-backdoor-for-web-applications)
 * [PHP Sadness](http://www.phpsadness.com/)
 * [PHP: The Right Way](http://www.phptherightway.com/)
+* [PHP-FIG - PHP Framework Interop Group](https://www.php-fig.org/)
+* [php-fig/fig-standards: Standards either proposed or approved by the Framework Interop Group](https://github.com/php-fig/fig-standards)
 * [roave/security-advisories: Composer against Security Vulnerabilities](https://ocramius.github.io/blog/roave-security-advisories-protect-against-composer-packages-with-security-issues/)
 * [Sichere NGINX TLS Konfiguration](https://www.sherbers.de/howto/nginx/)
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
