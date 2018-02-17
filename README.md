@@ -53,4 +53,5 @@
 * [cmder](http://cmder.net/)
 * [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 * [mail-tester.com](https://www.mail-tester.com/)
+* [PHP Live Regex - A Live Regular Expression Tester for PHP](http://www.phpliveregex.com/)
 * [Regex101](https://regex101.com/)
