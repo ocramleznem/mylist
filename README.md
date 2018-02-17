@@ -7,6 +7,8 @@
 * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 * [Analyse your HTTP response headers](https://securityheaders.io/)
 * [badssl.com](https://badssl.com/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+* [Catalog of Refactorings](https://refactoring.com/catalog/)
 * [Composer.json Schema CheatSheet](http://composer.json.jolicode.com/)
 * [Dependency Injection (DI) Container in PHP](https://medium.com/@MustafaMagdi/dependency-injection-di-container-in-php-a7e5d309ccc6)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
