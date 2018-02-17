@@ -31,6 +31,7 @@
 * [PHP-FIG - PHP Framework Interop Group](https://www.php-fig.org/)
 * [php-fig/fig-standards: Standards either proposed or approved by the Framework Interop Group](https://github.com/php-fig/fig-standards)
 * [roave/security-advisories: Composer against Security Vulnerabilities](https://ocramius.github.io/blog/roave-security-advisories-protect-against-composer-packages-with-security-issues/)
+* [rsnapshot](http://rsnapshot.org/)
 * [Sichere NGINX TLS Konfiguration](https://www.sherbers.de/howto/nginx/)
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
 * [Telnet IMAP Commands Note](https://busylog.net/telnet-imap-commands-note/)
