@@ -13,6 +13,7 @@
 * [curl cheat sheet](https://ec.haxx.se/http-cheatsheet.html)
 * [Dependency Injection (DI) Container in PHP](https://medium.com/@MustafaMagdi/dependency-injection-di-container-in-php-a7e5d309ccc6)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
+* [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
 * [Fluent Interfaces are Evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
 * [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 * [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
