@@ -10,6 +10,7 @@
 * [Catalog of Refactorings](https://refactoring.com/catalog/)
 * [cmder](http://cmder.net/)
 * [Composer.json Schema CheatSheet](http://composer.json.jolicode.com/)
+* [curl cheat sheet](https://ec.haxx.se/http-cheatsheet.html)
 * [Dependency Injection (DI) Container in PHP](https://medium.com/@MustafaMagdi/dependency-injection-di-container-in-php-a7e5d309ccc6)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
 * [Fluent Interfaces are Evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
