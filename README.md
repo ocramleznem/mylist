@@ -37,6 +37,7 @@
 * [PHP-FIG - PHP Framework Interop Group](https://www.php-fig.org/)
 * [php-fig/fig-standards: Standards either proposed or approved by the Framework Interop Group](https://github.com/php-fig/fig-standards)
 * [PHP Weekly. News, Articles and more all about PHP](http://www.phpweekly.com/)
+* [PhpStorm Plugin: 3v4l pl4g1n](https://plugins.jetbrains.com/plugin/8598-3v4l-pl4g1n)
 * [PhpStorm Plugin: Apache config (.htaccess) support](https://plugins.jetbrains.com/plugin/6834-apache-config--htaccess-support)
 * [PhpStorm Plugin: BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 * [PhpStorm Plugin: CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
