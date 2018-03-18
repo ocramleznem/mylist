@@ -41,6 +41,7 @@
 * [PhpStorm Plugin: BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 * [PhpStorm Plugin: CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
 * [PhpStorm Plugin: Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+* [PhpStorm Plugin: Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [PhpStorm Plugin: PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
 * [PhpStorm Plugin: PHP composer.json support](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support)
 * [PhpStorm Plugin: Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
