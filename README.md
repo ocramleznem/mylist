@@ -57,3 +57,4 @@
 * [When to declare classes final](https://ocramius.github.io/blog/when-to-declare-classes-final/)
 * [Why using Yoda conditions you should probably not be](https://dev.to/greg0ire/why-using-yoda-conditions-you-should-probably-not)
 * [wtphp](https://github.com/wtphp/wtphp/blob/master/README.md)
+* [Xdebug: Remote Debugging](https://xdebug.org/docs/remote)
