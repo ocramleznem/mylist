@@ -4,6 +4,7 @@
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 * [Analyse your HTTP response headers](https://securityheaders.io/)
+* [Avoid Else, Return Early](http://blog.timoxley.com/post/47041269194/avoid-else-return-early)
 * [LeCoupa/awesome-cheatsheets: Awesome cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [badssl.com](https://badssl.com/)
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
