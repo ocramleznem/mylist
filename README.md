@@ -54,6 +54,7 @@
 * [roave/security-advisories: Composer against Security Vulnerabilities](https://ocramius.github.io/blog/roave-security-advisories-protect-against-composer-packages-with-security-issues/)
 * [rsnapshot](http://rsnapshot.org/)
 * [Security Newsletter](https://securitynewsletter.co/)
+* [SemVer Check](http://jubianchi.github.io/semver-check/)
 * [Sichere NGINX TLS Konfiguration](https://www.sherbers.de/howto/nginx/)
 * [SQL Keys in Depth](https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html)
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
