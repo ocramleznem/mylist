@@ -11,6 +11,7 @@
 * [Catalog of Refactorings](https://refactoring.com/catalog/)
 * [cmder](http://cmder.net/)
 * [Composer.json Schema CheatSheet](http://composer.json.jolicode.com/)
+* [CORS](https://frontendian.co/cors)
 * [curl cheat sheet](https://ec.haxx.se/http-cheatsheet.html)
 * [DB Weekly](https://dbweekly.com/)
 * [Dependency Injection (DI) Container in PHP](https://medium.com/@MustafaMagdi/dependency-injection-di-container-in-php-a7e5d309ccc6)
