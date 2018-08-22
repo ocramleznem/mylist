@@ -53,6 +53,7 @@
 * [PhpStorm Plugin: String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 * [Regex101](https://regex101.com/)
 * [Removing Object Properties Before Var_Dumping Them](https://lornajane.net/posts/2017/removing-object-properties-before-var_dumping-them)
+* [Roave/BackwardCompatibilityCheck: Tool to compare two revisions of a class API to check for BC breaks](https://github.com/Roave/BackwardCompatibilityCheck)
 * [roave/security-advisories: Composer against Security Vulnerabilities](https://ocramius.github.io/blog/roave-security-advisories-protect-against-composer-packages-with-security-issues/)
 * [rsnapshot](http://rsnapshot.org/)
 * [Security Newsletter](https://securitynewsletter.co/)
