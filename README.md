@@ -60,6 +60,7 @@
 * [SemVer Check](http://jubianchi.github.io/semver-check/)
 * [Sichere NGINX TLS Konfiguration](https://www.sherbers.de/howto/nginx/)
 * [SQL Keys in Depth](https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html)
+* [SQLi Without Quotes](https://eternalnoobs.com/sqli-without-quotes/)
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
 * [Telnet IMAP Commands Note](https://busylog.net/telnet-imap-commands-note/)
 * [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
