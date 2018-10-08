@@ -65,6 +65,7 @@
 * [Telnet IMAP Commands Note](https://busylog.net/telnet-imap-commands-note/)
 * [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 * [There's a slight smell of wet dog in your code](https://sebastian-feldmann.info/talks/2017/20171011-slight-smell-of-wet-dog.pdf)
+* [Try/Catch/Finally](https://adayinthelifeof.nl/2013/02/12/php5-5-trycatchfinally/)
 * [What is the difference between single-quoted and double-quoted strings in PHP?](https://stackoverflow.com/questions/3446216/what-is-the-difference-between-single-quoted-and-double-quoted-strings-in-php/3446286#3446286)
 * [When to declare methods final](https://slamdunk.github.io/blog/when-to-declare-methods-final/)
 * [Which hashing algorithm is best for uniqueness and speed?](https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed)
