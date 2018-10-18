@@ -6,6 +6,7 @@
 * [Analyse your HTTP response headers](https://securityheaders.io/)
 * [Anti-If: The missing patterns](https://code.joejag.com/2016/anti-if-the-missing-patterns.html)
 * [Avoid Else, Return Early](http://blog.timoxley.com/post/47041269194/avoid-else-return-early)
+* [Avoiding Setter Injection](https://www.brandonsavage.net/avoiding-setter-injection/)
 * [LeCoupa/awesome-cheatsheets: Awesome cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [badssl.com](https://badssl.com/)
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
