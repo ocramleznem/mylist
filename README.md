@@ -76,6 +76,7 @@
 * [Using a Yubikey for GPG and SSH](https://0day.work/using-a-yubikey-for-gpg-and-ssh/)
 * [Using git-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
 * [Reference - What does this symbol mean in PHP?](https://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php)
+* [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 * [What version of PHP should my package support?](https://www.brandonsavage.net/version-php-package-support/)
 * [When to declare classes final](https://ocramius.github.io/blog/when-to-declare-classes-final/)
 * [Why using Yoda conditions you should probably not be](https://dev.to/greg0ire/why-using-yoda-conditions-you-should-probably-not)
