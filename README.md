@@ -32,6 +32,7 @@
 * [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [Keep a changelog](https://keepachangelog.com/)
+* [Learn Git Branching](https://learngitbranching.js.org)
 * [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 * [mail-tester.com](https://www.mail-tester.com/)
 * [MySQL ORDER BY / LIMIT performance: late row lookups](https://explainextended.com/2009/10/23/mysql-order-by-limit-performance-late-row-lookups/)
