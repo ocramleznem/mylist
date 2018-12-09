@@ -19,6 +19,7 @@
 * [DB Weekly](https://dbweekly.com/)
 * [Dependency Injection (DI) Container in PHP](https://medium.com/@MustafaMagdi/dependency-injection-di-container-in-php-a7e5d309ccc6)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
+* [Don't use the greater than sign in programming](https://llewellynfalco.blogspot.com/2016/02/dont-use-greater-than-sign-in.html)
 * [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
 * [Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
 * [Falsehoods programmers believe about geography](https://wiesmann.codiferes.net/wordpress/?p=15187&lang=en)
