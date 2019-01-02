@@ -41,6 +41,7 @@
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 * [mail-tester.com](https://www.mail-tester.com/)
+* [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [MySQL ORDER BY / LIMIT performance: late row lookups](https://explainextended.com/2009/10/23/mysql-order-by-limit-performance-late-row-lookups/)
 * [nixCraft – Linux Tips, Hacks, Tutorials, And Ideas In Blog](https://www.cyberciti.biz/)
 * [On The Design and Implementation of a Stealth Backdoor for Web Applications](https://paragonie.com/blog/2016/01/on-design-and-implementation-stealth-backdoor-for-web-applications)
