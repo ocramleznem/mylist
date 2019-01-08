@@ -72,6 +72,7 @@
 * [Sichere NGINX TLS Konfiguration](https://www.sherbers.de/howto/nginx/)
 * [Solving GitLab's CHANGELOG conflict crisis](https://about.gitlab.com/2018/07/03/solving-gitlabs-changelog-conflict-crisis/)
 * [SQL Keys in Depth](https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html)
+* [SQL style guide](https://www.sqlstyle.guide/)
 * [SQLi Without Quotes](https://eternalnoobs.com/sqli-without-quotes/)
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
 * [Telnet IMAP Commands Note](https://busylog.net/telnet-imap-commands-note/)
