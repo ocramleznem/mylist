@@ -46,6 +46,7 @@
 * [nixCraft – Linux Tips, Hacks, Tutorials, And Ideas In Blog](https://www.cyberciti.biz/)
 * [On The Design and Implementation of a Stealth Backdoor for Web Applications](https://paragonie.com/blog/2016/01/on-design-and-implementation-stealth-backdoor-for-web-applications)
 * [PHP 7 type hinting: what you shouldn't do](http://web-techno.net/typing-with-php-7-what-you-shouldnt-do/)
+* [PHP Apprentice](https://phpapprentice.com/)
 * [PHP Live Regex - A Live Regular Expression Tester for PHP](http://www.phpliveregex.com/)
 * [PHP Sadness](http://www.phpsadness.com/)
 * [PHP: The Right Way](http://www.phptherightway.com/)
