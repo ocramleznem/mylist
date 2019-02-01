@@ -70,6 +70,7 @@
 * [rsnapshot](http://rsnapshot.org/)
 * [Security Newsletter](https://securitynewsletter.co/)
 * [SemVer Check](http://jubianchi.github.io/semver-check/)
+* [Semantic Versioning](https://semver.org/)
 * [Sichere NGINX TLS Konfiguration](https://www.sherbers.de/howto/nginx/)
 * [Solving GitLab's CHANGELOG conflict crisis](https://about.gitlab.com/2018/07/03/solving-gitlabs-changelog-conflict-crisis/)
 * [SQL Keys in Depth](https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html)
