@@ -31,6 +31,7 @@
 * [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 * [Git: Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 * [How does the PHP Realpath Cache work and how to configure it?](https://tideways.io/profiler/blog/how-does-the-php-realpath-cache-work-and-how-to-configure-it)
+* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [How to Securely Generate Random Strings and Integers in PHP](https://paragonie.com/blog/2015/07/how-safely-generate-random-strings-and-integers-in-php)
 * [How to JOIN tables in UPDATE query](https://stackoverflow.com/questions/15209414/how-to-do-3-table-join-in-update-query/15209489#15209489)
 * [How To Run Your Own Mail Server](https://www.c0ffee.net/blog/mail-server-guide)
