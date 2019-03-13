@@ -35,6 +35,7 @@
 * [How to Securely Generate Random Strings and Integers in PHP](https://paragonie.com/blog/2015/07/how-safely-generate-random-strings-and-integers-in-php)
 * [How to JOIN tables in UPDATE query](https://stackoverflow.com/questions/15209414/how-to-do-3-table-join-in-update-query/15209489#15209489)
 * [How To Run Your Own Mail Server](https://www.c0ffee.net/blog/mail-server-guide)
+* [htrace.sh](https://github.com/trimstray/htrace.sh)
 * [Is it all PHP OPCache's fault?](https://engineering.facile.it/blog/eng/realpath-cache-is-it-all-php-opcache-s-fault/)
 * [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
