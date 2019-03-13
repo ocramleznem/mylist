@@ -62,6 +62,7 @@
 * [PhpStorm Plugin: PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
 * [PhpStorm Plugin: PHP composer.json support](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support)
 * [PhpStorm Plugin: Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
+* [PhpStorm Plugin: Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * [PhpStorm Plugin: String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 * [Regex101](https://regex101.com/)
 * [Removing Object Properties Before Var_Dumping Them](https://lornajane.net/posts/2017/removing-object-properties-before-var_dumping-them)
