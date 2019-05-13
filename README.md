@@ -21,6 +21,7 @@
 * [curl cheat sheet](https://ec.haxx.se/http-cheatsheet.html)
 * [DB Weekly](https://dbweekly.com/)
 * [Dependency Injection (DI) Container in PHP](https://medium.com/@MustafaMagdi/dependency-injection-di-container-in-php-a7e5d309ccc6)
+* [Design Patterns for humas: An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
 * [Don't use the greater than sign in programming](https://llewellynfalco.blogspot.com/2016/02/dont-use-greater-than-sign-in.html)
 * [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
