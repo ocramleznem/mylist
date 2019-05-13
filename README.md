@@ -54,6 +54,7 @@
 * [PHP Apprentice](https://phpapprentice.com/)
 * [PHP Cheatsheets](https://phpcheatsheets.com/)
 * [PHP Live Regex - A Live Regular Expression Tester for PHP](http://www.phpliveregex.com/)
+* [PHP RFC Watch](https://php-rfc-watch.beberlei.de/)
 * [PHP Sadness](http://www.phpsadness.com/)
 * [PHP: The Right Way](http://www.phptherightway.com/)
 * [PHP-FIG - PHP Framework Interop Group](https://www.php-fig.org/)
