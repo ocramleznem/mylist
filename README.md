@@ -98,6 +98,7 @@
 * [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 * [What version of PHP should my package support?](https://www.brandonsavage.net/version-php-package-support/)
 * [When to declare classes final](https://ocramius.github.io/blog/when-to-declare-classes-final/)
+* [Why equal doesn't equal](https://speakerdeck.com/jrf/the-big-why-equal-doesnt-equal-quiz-php-yorkshire)
 * [Why using Yoda conditions you should probably not be](https://dev.to/greg0ire/why-using-yoda-conditions-you-should-probably-not)
 * [wtphp](https://github.com/wtphp/wtphp/blob/master/README.md)
 * [Xdebug: Remote Debugging](https://xdebug.org/docs/remote)
