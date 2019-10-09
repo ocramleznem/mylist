@@ -32,6 +32,7 @@
 * [Fluent Interfaces are Evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/)
 * [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 * [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+* [Julia Evans' Blog](https://jvns.ca/) - "talk about learning hard things and doing hard things in a practical and friendly way."
 * [Git: Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 * [How does the PHP Realpath Cache work and how to configure it?](https://tideways.io/profiler/blog/how-does-the-php-realpath-cache-work-and-how-to-configure-it)
 * [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
